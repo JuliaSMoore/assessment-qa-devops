@@ -1,0 +1,17 @@
+Fetching a list of bots.
+
+Description:
+
+This test will verify that the button 'See all Bots' works correctly.
+
+Steps:
+
+1. Run the link http://localhost:4000/
+2. Click the 'See all Bots' button
+3. Male sure that the list of bots appeared on the page.
+4. Reload the page to make sure that the list is now gone.
+
+Test Postconditions:
+
+1. The list is displayed on the page.
+2. The list is gone after the reload.

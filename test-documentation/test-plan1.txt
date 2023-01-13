@@ -1,0 +1,25 @@
+Overview:
+
+Test the functionality of the 'See all Bots' Button.
+
+Links:
+
+http://localhost:4000/
+
+Test Criteria:
+ 1. The button is present on the page
+ 2. The button is clickable
+ 3. Upon clicking the button a list of bots is fetched from the database.
+
+Entry Criteria:
+
+1. Test criteria provided.
+2. Running version provided for the test.
+
+Exit Criteria:
+
+1. All test cases run and pass
+
+Other Details:
+
+none
